@@ -1,0 +1,2 @@
+# AIBotCardGame-Docs
+Design Docs
